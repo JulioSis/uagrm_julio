@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "458183920570",
+    "firebase_url": "https://talleresmecanicos-6a828.firebaseio.com",
+    "project_id": "talleresmecanicos-6a828",
+    "storage_bucket": "talleresmecanicos-6a828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458183920570:android:0de89e6f6b8c511ae82b83",
+        "android_client_info": {
+          "package_name": "com.example.julio.apptaller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458183920570-mr8m2t9ig49rl1393hm065bm45eu2693.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.julio.apptaller",
+            "certificate_hash": "e481287fce33de24842d8fe2d94587ed8b86a674"
+          }
+        },
+        {
+          "client_id": "458183920570-5bf3ldp111cb3b54blq3oq5v2v9chkh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3WcSt-3BsNWKXjPR3FBUmRg7nGc2Rcd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458183920570-5bf3ldp111cb3b54blq3oq5v2v9chkh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458183920570:android:4a676903184de456e82b83",
+        "android_client_info": {
+          "package_name": "com.example.julio.apptaller_taller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458183920570-e052524fdb3v7g980uf2rscpg6oqhabn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.julio.apptaller_taller",
+            "certificate_hash": "e481287fce33de24842d8fe2d94587ed8b86a674"
+          }
+        },
+        {
+          "client_id": "458183920570-5bf3ldp111cb3b54blq3oq5v2v9chkh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3WcSt-3BsNWKXjPR3FBUmRg7nGc2Rcd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458183920570-5bf3ldp111cb3b54blq3oq5v2v9chkh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

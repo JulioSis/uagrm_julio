@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="4dp"
+    app:cardElevation="4dp"
+    app:cardUseCompatPadding="true">
+    <RelativeLayout
+        android:id="@+id/relative"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imageTaller"
+            android:layout_width="140dp"
+            android:layout_marginLeft="3dp"
+            android:layout_height="100dp"
+            android:layout_centerVertical="true"
+            android:scaleType="centerCrop"/>
+
+        <TextView
+            android:id="@+id/textNombre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_bold"
+            android:text="Nombre"
+            android:layout_toRightOf="@+id/imageTaller"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentTop="true"
+            android:textColor="#f90606"
+            android:textSize="24sp" />
+        <TextView
+            android:id="@+id/textDireccion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_bold"
+            android:text="Direccion"
+            android:layout_below="@+id/textNombre"
+            android:layout_alignLeft="@+id/textNombre"
+            android:textColor="#080808"
+            android:layout_marginTop="4dp"
+            android:textSize="18sp" />
+        <TextView
+            android:id="@+id/textHorario"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_bold"
+            android:text="Horario"
+            android:layout_below="@+id/textDireccion"
+            android:layout_alignLeft="@+id/textDireccion"
+            android:textColor="#0d0d0d"
+            android:layout_marginTop="4dp"
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

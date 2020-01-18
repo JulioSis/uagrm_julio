@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/Inicio"
+            android:icon="@drawable/ic_location"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/Perfil"
+            android:icon="@drawable/ic_account_circle"
+            android:title="Mi Perfil" />
+        <item
+            android:id="@+id/ChangeContra"
+            android:icon="@drawable/ic_autorenew"
+            android:title="Cambiar Contraseña" />
+
+        <item
+            android:id="@+id/salir"
+            android:icon="@drawable/ic_arrow_back"
+            android:title="Salir" />
+    </group>
+
+
+</menu>

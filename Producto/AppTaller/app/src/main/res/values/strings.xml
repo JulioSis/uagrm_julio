@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AppTaller</string>
+    <string name="title_activity_inicio">Inicio</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mapa">Map</string>
+    <string name="access_token">pk.eyJ1IjoianVsaW9naWEiLCJhIjoiY2sxMjMxOTR2MGJhaTNubzJwZ2Q2aDVsaSJ9.S5x50IW2t8bWbsi6p2x75w</string>
+
+    <string name="FACEBOOK_APP_ID">2421603501290109</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">[ACCOUNT_KIT_CLIENT_TOKEN]</string>
+    <string name="title_activity_request_talleres">RequestTalleres</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_mechanic_tracking">Map</string>
+</resources>
