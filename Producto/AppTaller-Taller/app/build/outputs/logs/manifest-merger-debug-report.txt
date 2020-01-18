@@ -1,0 +1,845 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\cbcb924e211342b96b47701544debfa0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\99cd045750956560b7ff3977639b1f25\AndroidManifest.xml:17:1-22:12
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\81defdb2962234d834e554721f9efa4d\AndroidManifest.xml:2:1-13:12
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\library-2.1.4.aar\2b98ed1de6f499649ce505c919a8b17c\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-11.0.4.aar\2542e4d6eb0db5c4f68e5febe839dbcc\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\f027eeb908c35bea214018bafba58036\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.0.4.aar\4764edd1cab1a5852bb16d5ba1faaff6\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\dd358ee42a457101226d76866e29d248\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1e232312717996973948f21f4118a931\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7e2612151880a60dfa85d926ac02adae\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.d-max:spots-dialog:0.7] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\spots-dialog-0.7.aar\17fd1ac6f68f27f4b7e0d4ec3eda58f1\AndroidManifest.xml:2:1-14:12
+MERGED from [com.firebase:geofire-android:2.1.2] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\geofire-android-2.1.2.aar\9e2501cfacdf83df72ce45f0d3b9e882\AndroidManifest.xml:1:1-5:12
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.0.4.aar\515ccef5b018f7fb60ab46804793230f\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.0.4.aar\c546326fc568b11bd366d45f81b940dd\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\39bef6a12ebe6b38dbe4b5b2d0950a50\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.4.aar\315164a9d39d594e8c99d080b509c303\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-wallet-11.0.4.aar\2e5bed397042aa6495a0bc7642cccc29\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\ed7db94de1fc94e97089d68fca173d9d\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\5f9d911fb23698b61e101798260dbc4b\AndroidManifest.xml:2:1-13:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\e839abb560b8d255a60efe1c6147944a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\8292d762e8088c1bee062d2c9388d05f\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.glomadrian:MaterialAnimatedSwitch:1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\MaterialAnimatedSwitch-1.1.aar\d3834db0cd9b1a4cd11a4a1a9881991f\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\a8961a976298805eb36dc2e13e667356\AndroidManifest.xml:17:1-22:12
+MERGED from [io.paperdb:paperdb:2.6] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\paperdb-2.6.aar\19920b80c2d3dde2268b081df17bb6b3\AndroidManifest.xml:2:1-14:12
+MERGED from [me.dm7.barcodescanner:zxing:1.8.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-1.8.4.aar\30e558e463d285b7c44193b8ed18e6e9\AndroidManifest.xml:2:1-13:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\f479e68ade7120ff0dbd0e8c48b189c9\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\d2cdcefb3391220cf07bbf9108419a53\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\d7e34547170156fd831952d28769ceb8\AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\679106c8f5a0e5764e74482a47b9ed15\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-11.0.4.aar\b98b6f214bbd1e1a5f47dfb4ef324764\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.0.4.aar\fead0967c697e040ed63f5fc13285c5b\AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\bbbacba800052a751967ab31e82fe861\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\48856a0eb7dc9344da921c8f058005b9\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\d42009057e176e0582f05f8d87a4d015\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\8b76ccfbd9e4f06e23ae001838cb4e1b\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.0.4.aar\2a34a4594106c7693bc690f676cc5abe\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\0253e7a4255525d9a1d23566f90f7268\AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.0.4.aar\836eb8c29b839863cdb68afec08a27c7\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\11fe995b1cfc1b3c9fcd7c1576117778\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-config-11.0.4.aar\d9e20118739028af7cad2d88475b17f2\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-games-11.0.4.aar\eb0f1013994627228b78d70b03fbc2b2\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.0.4.aar\dd87158f32ccb04c85cd117568aec675\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.0.4.aar\d85a7c6848f9e9cc24b03b762fb78798\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\1781186b3d5c3dfbf481a71e4dc8c543\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.0.4.aar\f2d997d3f5eb2daf46a6843d4d2e5e0b\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.0.4.aar\36e2a94760313270976855ace867e281\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\17f1b520e85a792e0175f7c769b6aad3\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-11.0.4.aar\9bd0d96cbaab4013dfb04e615f2ffa6e\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\caf3c7f6003d4e5ea621e2fbdf055678\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.0.4.aar\8b98432a3ed361f0900d127c66931793\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.0.4.aar\e142c4f702d22f1f25e26b8a71a2751e\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\84c6bf4ed054e04e63a6513e21af59aa\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.4.aar\ad968b89c90611aa715b387ebe3e8a0a\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.4.aar\9e97fba24c94cebc6eedb607192be789\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.0.4.aar\8ce9d3b1900f75cd6f363e783ce08d33\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\edff0a84db5e6fdf076966c85f2e2c63\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-storage:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.0.4.aar\17bb0b51c19baac715ed0387b2eaccda\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\45712487f772d6434bbb47a4952bcdc5\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\c20c77bf1ee889937c79343d2a2c79ae\AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\b0a3089476dcd31b43cd397e049947f4\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\073b18a4992f7f86cef081887a97df6c\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\40df8a7e9c8881ef02e6457d9290b2bb\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.0.4.aar\c6b8f94b06c34d0c63bd3a8701e308c9\AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\c52c5bed38ee5feb21aab6793d20e12c\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\3a89d02aa40bd7e478c1d97e4bfec0d7\AndroidManifest.xml:16:1-23:12
+MERGED from [me.dm7.barcodescanner:core:1.8.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\core-1.8.4.aar\d020070f967b24d27cbac19c0b709a5c\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ba1b8a56f0a89b691e0d99cbfefd90cc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\1c50990e2f1e1314d1ba6f683d41f607\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\24a32128258f219275bdcaa5ad84fef6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e370825e40ceeede9a491bc6fd8a2d73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1df6f1810ba36dc23055916891a248c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a60fe6451d264d5a94d3374f6fc8063c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7714ab1cdb1acddd1e752349abdc7010\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\5590e463f6bb5ea1d7bdfffea2ed62c5\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b2406ff47b70dc35b5a67803d6e1e4c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\13353fa991eb35656d27963b8e0db28e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3734443afa168a0eb1f8cbaab414c718\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f82bf69e93853395ae3df417ecafb238\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a4710be1a249ff7312cc52cac05401f3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e545ae3bb04602514d2ca0c1842257e5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\71d63c22d09c1a17ca63674162105391\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c58bd5589dfafdb612428cf403562a8a\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.firebase:geofire-android:2.1.2] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\geofire-android-2.1.2.aar\9e2501cfacdf83df72ce45f0d3b9e882\AndroidManifest.xml:4:3-64
+MERGED from [com.firebase:geofire-android:2.1.2] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\geofire-android-2.1.2.aar\9e2501cfacdf83df72ce45f0d3b9e882\AndroidManifest.xml:4:3-64
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\ed7db94de1fc94e97089d68fca173d9d\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\ed7db94de1fc94e97089d68fca173d9d\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\679106c8f5a0e5764e74482a47b9ed15\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\679106c8f5a0e5764e74482a47b9ed15\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\bbbacba800052a751967ab31e82fe861\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\bbbacba800052a751967ab31e82fe861\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\d42009057e176e0582f05f8d87a4d015\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\d42009057e176e0582f05f8d87a4d015\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\8b76ccfbd9e4f06e23ae001838cb4e1b\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\8b76ccfbd9e4f06e23ae001838cb4e1b\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\1781186b3d5c3dfbf481a71e4dc8c543\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\1781186b3d5c3dfbf481a71e4dc8c543\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\17f1b520e85a792e0175f7c769b6aad3\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\17f1b520e85a792e0175f7c769b6aad3\AndroidManifest.xml:21:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\c20c77bf1ee889937c79343d2a2c79ae\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\c20c77bf1ee889937c79343d2a2c79ae\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\40df8a7e9c8881ef02e6457d9290b2bb\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\40df8a7e9c8881ef02e6457d9290b2bb\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:9:5-47:19
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\cbcb924e211342b96b47701544debfa0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\cbcb924e211342b96b47701544debfa0\AndroidManifest.xml:5:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\81defdb2962234d834e554721f9efa4d\AndroidManifest.xml:11:5-20
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\81defdb2962234d834e554721f9efa4d\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-11.0.4.aar\2542e4d6eb0db5c4f68e5febe839dbcc\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-11.0.4.aar\2542e4d6eb0db5c4f68e5febe839dbcc\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\f027eeb908c35bea214018bafba58036\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\f027eeb908c35bea214018bafba58036\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.0.4.aar\4764edd1cab1a5852bb16d5ba1faaff6\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.0.4.aar\4764edd1cab1a5852bb16d5ba1faaff6\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\dd358ee42a457101226d76866e29d248\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\dd358ee42a457101226d76866e29d248\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7e2612151880a60dfa85d926ac02adae\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7e2612151880a60dfa85d926ac02adae\AndroidManifest.xml:9:5-20
+MERGED from [com.github.d-max:spots-dialog:0.7] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\spots-dialog-0.7.aar\17fd1ac6f68f27f4b7e0d4ec3eda58f1\AndroidManifest.xml:12:5-20
+MERGED from [com.github.d-max:spots-dialog:0.7] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\spots-dialog-0.7.aar\17fd1ac6f68f27f4b7e0d4ec3eda58f1\AndroidManifest.xml:12:5-20
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.0.4.aar\515ccef5b018f7fb60ab46804793230f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.0.4.aar\515ccef5b018f7fb60ab46804793230f\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.0.4.aar\c546326fc568b11bd366d45f81b940dd\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.0.4.aar\c546326fc568b11bd366d45f81b940dd\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\39bef6a12ebe6b38dbe4b5b2d0950a50\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\39bef6a12ebe6b38dbe4b5b2d0950a50\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.4.aar\315164a9d39d594e8c99d080b509c303\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.4.aar\315164a9d39d594e8c99d080b509c303\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\ed7db94de1fc94e97089d68fca173d9d\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\ed7db94de1fc94e97089d68fca173d9d\AndroidManifest.xml:24:5-19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\5f9d911fb23698b61e101798260dbc4b\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\5f9d911fb23698b61e101798260dbc4b\AndroidManifest.xml:7:5-11:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\e839abb560b8d255a60efe1c6147944a\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\e839abb560b8d255a60efe1c6147944a\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\8292d762e8088c1bee062d2c9388d05f\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\8292d762e8088c1bee062d2c9388d05f\AndroidManifest.xml:7:5-12:19
+MERGED from [com.github.glomadrian:MaterialAnimatedSwitch:1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\MaterialAnimatedSwitch-1.1.aar\d3834db0cd9b1a4cd11a4a1a9881991f\AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.glomadrian:MaterialAnimatedSwitch:1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\MaterialAnimatedSwitch-1.1.aar\d3834db0cd9b1a4cd11a4a1a9881991f\AndroidManifest.xml:11:5-14:19
+MERGED from [io.paperdb:paperdb:2.6] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\paperdb-2.6.aar\19920b80c2d3dde2268b081df17bb6b3\AndroidManifest.xml:12:5-20
+MERGED from [io.paperdb:paperdb:2.6] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\paperdb-2.6.aar\19920b80c2d3dde2268b081df17bb6b3\AndroidManifest.xml:12:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.8.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-1.8.4.aar\30e558e463d285b7c44193b8ed18e6e9\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.8.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-1.8.4.aar\30e558e463d285b7c44193b8ed18e6e9\AndroidManifest.xml:11:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:45:5-53:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\f479e68ade7120ff0dbd0e8c48b189c9\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\f479e68ade7120ff0dbd0e8c48b189c9\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\d7e34547170156fd831952d28769ceb8\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\d7e34547170156fd831952d28769ceb8\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\679106c8f5a0e5764e74482a47b9ed15\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\679106c8f5a0e5764e74482a47b9ed15\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\bbbacba800052a751967ab31e82fe861\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\bbbacba800052a751967ab31e82fe861\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\48856a0eb7dc9344da921c8f058005b9\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\48856a0eb7dc9344da921c8f058005b9\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\d42009057e176e0582f05f8d87a4d015\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\d42009057e176e0582f05f8d87a4d015\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\8b76ccfbd9e4f06e23ae001838cb4e1b\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\8b76ccfbd9e4f06e23ae001838cb4e1b\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\0253e7a4255525d9a1d23566f90f7268\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\0253e7a4255525d9a1d23566f90f7268\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\11fe995b1cfc1b3c9fcd7c1576117778\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\11fe995b1cfc1b3c9fcd7c1576117778\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-config-11.0.4.aar\d9e20118739028af7cad2d88475b17f2\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-config-11.0.4.aar\d9e20118739028af7cad2d88475b17f2\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-games-11.0.4.aar\eb0f1013994627228b78d70b03fbc2b2\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-games-11.0.4.aar\eb0f1013994627228b78d70b03fbc2b2\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.0.4.aar\dd87158f32ccb04c85cd117568aec675\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.0.4.aar\dd87158f32ccb04c85cd117568aec675\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.0.4.aar\d85a7c6848f9e9cc24b03b762fb78798\AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.0.4.aar\d85a7c6848f9e9cc24b03b762fb78798\AndroidManifest.xml:5:3-17
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\1781186b3d5c3dfbf481a71e4dc8c543\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\1781186b3d5c3dfbf481a71e4dc8c543\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.0.4.aar\f2d997d3f5eb2daf46a6843d4d2e5e0b\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.0.4.aar\f2d997d3f5eb2daf46a6843d4d2e5e0b\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.0.4.aar\36e2a94760313270976855ace867e281\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.0.4.aar\36e2a94760313270976855ace867e281\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\17f1b520e85a792e0175f7c769b6aad3\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\17f1b520e85a792e0175f7c769b6aad3\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\caf3c7f6003d4e5ea621e2fbdf055678\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\caf3c7f6003d4e5ea621e2fbdf055678\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.0.4.aar\8b98432a3ed361f0900d127c66931793\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.0.4.aar\8b98432a3ed361f0900d127c66931793\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.0.4.aar\e142c4f702d22f1f25e26b8a71a2751e\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.0.4.aar\e142c4f702d22f1f25e26b8a71a2751e\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\84c6bf4ed054e04e63a6513e21af59aa\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\84c6bf4ed054e04e63a6513e21af59aa\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.4.aar\ad968b89c90611aa715b387ebe3e8a0a\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.4.aar\ad968b89c90611aa715b387ebe3e8a0a\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.4.aar\9e97fba24c94cebc6eedb607192be789\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.4.aar\9e97fba24c94cebc6eedb607192be789\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.0.4.aar\8ce9d3b1900f75cd6f363e783ce08d33\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.0.4.aar\8ce9d3b1900f75cd6f363e783ce08d33\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\edff0a84db5e6fdf076966c85f2e2c63\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\edff0a84db5e6fdf076966c85f2e2c63\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\c20c77bf1ee889937c79343d2a2c79ae\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\c20c77bf1ee889937c79343d2a2c79ae\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\b0a3089476dcd31b43cd397e049947f4\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\b0a3089476dcd31b43cd397e049947f4\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\073b18a4992f7f86cef081887a97df6c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\073b18a4992f7f86cef081887a97df6c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\40df8a7e9c8881ef02e6457d9290b2bb\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\40df8a7e9c8881ef02e6457d9290b2bb\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\c52c5bed38ee5feb21aab6793d20e12c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\c52c5bed38ee5feb21aab6793d20e12c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\3a89d02aa40bd7e478c1d97e4bfec0d7\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\3a89d02aa40bd7e478c1d97e4bfec0d7\AndroidManifest.xml:19:5-21:19
+MERGED from [me.dm7.barcodescanner:core:1.8.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\core-1.8.4.aar\d020070f967b24d27cbac19c0b709a5c\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.8.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\core-1.8.4.aar\d020070f967b24d27cbac19c0b709a5c\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\5590e463f6bb5ea1d7bdfffea2ed62c5\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\5590e463f6bb5ea1d7bdfffea2ed62c5\AndroidManifest.xml:22:5-23:19
+	android:supportsRtl
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.julio.apptaller_taller.Principal
+ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:16:19-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.julio.apptaller_taller.Home
+ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:23:9-26:47
+	android:label
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:25:13-56
+	android:theme
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:26:13-44
+	android:name
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:24:13-33
+activity#com.example.julio.apptaller_taller.CustomerCall
+ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:27:19-47
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:29:9-31:55
+	android:value
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:31:13-52
+	android:name
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:30:13-58
+service#com.example.julio.apptaller_taller.Service.MyFirebaseIdService
+ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:33:9-37:19
+	android:name
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:33:18-61
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:34:13-36:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:35:17-80
+	android:name
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:35:25-77
+service#com.example.julio.apptaller_taller.Service.MyFirebaseMessaging
+ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:38:9-42:19
+	android:name
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:38:18-61
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:39:13-41:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:40:17-78
+	android:name
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:40:25-75
+activity#com.example.julio.apptaller_taller.MechanicTracking
+ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:44:9-46:81
+	android:label
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:46:13-69
+	android:name
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml:45:13-45
+uses-sdk
+INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml
+INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\cbcb924e211342b96b47701544debfa0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\cbcb924e211342b96b47701544debfa0\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:design:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\99cd045750956560b7ff3977639b1f25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\99cd045750956560b7ff3977639b1f25\AndroidManifest.xml:20:5-44
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\81defdb2962234d834e554721f9efa4d\AndroidManifest.xml:7:5-9:41
+MERGED from [uk.co.chrisjenx:calligraphy:2.3.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\calligraphy-2.3.0.aar\81defdb2962234d834e554721f9efa4d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\library-2.1.4.aar\2b98ed1de6f499649ce505c919a8b17c\AndroidManifest.xml:6:5-8:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\library-2.1.4.aar\2b98ed1de6f499649ce505c919a8b17c\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-11.0.4.aar\2542e4d6eb0db5c4f68e5febe839dbcc\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-11.0.4.aar\2542e4d6eb0db5c4f68e5febe839dbcc\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\f027eeb908c35bea214018bafba58036\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\f027eeb908c35bea214018bafba58036\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.0.4.aar\4764edd1cab1a5852bb16d5ba1faaff6\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-cast-11.0.4.aar\4764edd1cab1a5852bb16d5ba1faaff6\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\dd358ee42a457101226d76866e29d248\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-25.2.0.aar\dd358ee42a457101226d76866e29d248\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1e232312717996973948f21f4118a931\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\1e232312717996973948f21f4118a931\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7e2612151880a60dfa85d926ac02adae\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\7e2612151880a60dfa85d926ac02adae\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.d-max:spots-dialog:0.7] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\spots-dialog-0.7.aar\17fd1ac6f68f27f4b7e0d4ec3eda58f1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.d-max:spots-dialog:0.7] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\spots-dialog-0.7.aar\17fd1ac6f68f27f4b7e0d4ec3eda58f1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebase:geofire-android:2.1.2] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\geofire-android-2.1.2.aar\9e2501cfacdf83df72ce45f0d3b9e882\AndroidManifest.xml:2:3-70
+MERGED from [com.firebase:geofire-android:2.1.2] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\geofire-android-2.1.2.aar\9e2501cfacdf83df72ce45f0d3b9e882\AndroidManifest.xml:2:3-70
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.0.4.aar\515ccef5b018f7fb60ab46804793230f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-awareness-11.0.4.aar\515ccef5b018f7fb60ab46804793230f\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.0.4.aar\c546326fc568b11bd366d45f81b940dd\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-fitness-11.0.4.aar\c546326fc568b11bd366d45f81b940dd\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\39bef6a12ebe6b38dbe4b5b2d0950a50\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\39bef6a12ebe6b38dbe4b5b2d0950a50\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.4.aar\315164a9d39d594e8c99d080b509c303\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.4.aar\315164a9d39d594e8c99d080b509c303\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-wallet-11.0.4.aar\2e5bed397042aa6495a0bc7642cccc29\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-wallet-11.0.4.aar\2e5bed397042aa6495a0bc7642cccc29\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\ed7db94de1fc94e97089d68fca173d9d\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\ed7db94de1fc94e97089d68fca173d9d\AndroidManifest.xml:23:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\5f9d911fb23698b61e101798260dbc4b\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\5f9d911fb23698b61e101798260dbc4b\AndroidManifest.xml:5:5-43
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\e839abb560b8d255a60efe1c6147944a\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\e839abb560b8d255a60efe1c6147944a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\8292d762e8088c1bee062d2c9388d05f\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\8292d762e8088c1bee062d2c9388d05f\AndroidManifest.xml:5:5-44
+MERGED from [com.github.glomadrian:MaterialAnimatedSwitch:1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\MaterialAnimatedSwitch-1.1.aar\d3834db0cd9b1a4cd11a4a1a9881991f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.glomadrian:MaterialAnimatedSwitch:1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\MaterialAnimatedSwitch-1.1.aar\d3834db0cd9b1a4cd11a4a1a9881991f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\a8961a976298805eb36dc2e13e667356\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\a8961a976298805eb36dc2e13e667356\AndroidManifest.xml:20:5-44
+MERGED from [io.paperdb:paperdb:2.6] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\paperdb-2.6.aar\19920b80c2d3dde2268b081df17bb6b3\AndroidManifest.xml:8:5-10:41
+MERGED from [io.paperdb:paperdb:2.6] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\paperdb-2.6.aar\19920b80c2d3dde2268b081df17bb6b3\AndroidManifest.xml:8:5-10:41
+MERGED from [me.dm7.barcodescanner:zxing:1.8.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-1.8.4.aar\30e558e463d285b7c44193b8ed18e6e9\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.8.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-1.8.4.aar\30e558e463d285b7c44193b8ed18e6e9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:19:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\f479e68ade7120ff0dbd0e8c48b189c9\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.0.4.aar\f479e68ade7120ff0dbd0e8c48b189c9\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\d2cdcefb3391220cf07bbf9108419a53\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-database-11.0.4.aar\d2cdcefb3391220cf07bbf9108419a53\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\d7e34547170156fd831952d28769ceb8\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\d7e34547170156fd831952d28769ceb8\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\679106c8f5a0e5764e74482a47b9ed15\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-crash-11.0.4.aar\679106c8f5a0e5764e74482a47b9ed15\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-11.0.4.aar\b98b6f214bbd1e1a5f47dfb4ef324764\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-11.0.4.aar\b98b6f214bbd1e1a5f47dfb4ef324764\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.0.4.aar\fead0967c697e040ed63f5fc13285c5b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.0.4.aar\fead0967c697e040ed63f5fc13285c5b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\bbbacba800052a751967ab31e82fe861\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\bbbacba800052a751967ab31e82fe861\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\48856a0eb7dc9344da921c8f058005b9\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-11.0.4.aar\48856a0eb7dc9344da921c8f058005b9\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\d42009057e176e0582f05f8d87a4d015\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\d42009057e176e0582f05f8d87a4d015\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\8b76ccfbd9e4f06e23ae001838cb4e1b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\8b76ccfbd9e4f06e23ae001838cb4e1b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.0.4.aar\2a34a4594106c7693bc690f676cc5abe\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-11.0.4.aar\2a34a4594106c7693bc690f676cc5abe\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\0253e7a4255525d9a1d23566f90f7268\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\0253e7a4255525d9a1d23566f90f7268\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.0.4.aar\836eb8c29b839863cdb68afec08a27c7\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.0.4.aar\836eb8c29b839863cdb68afec08a27c7\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\11fe995b1cfc1b3c9fcd7c1576117778\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-11.0.4.aar\11fe995b1cfc1b3c9fcd7c1576117778\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-config-11.0.4.aar\d9e20118739028af7cad2d88475b17f2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-config-11.0.4.aar\d9e20118739028af7cad2d88475b17f2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-games-11.0.4.aar\eb0f1013994627228b78d70b03fbc2b2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-games-11.0.4.aar\eb0f1013994627228b78d70b03fbc2b2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.0.4.aar\dd87158f32ccb04c85cd117568aec675\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-drive-11.0.4.aar\dd87158f32ccb04c85cd117568aec675\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.0.4.aar\d85a7c6848f9e9cc24b03b762fb78798\AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-11.0.4.aar\d85a7c6848f9e9cc24b03b762fb78798\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\1781186b3d5c3dfbf481a71e4dc8c543\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\1781186b3d5c3dfbf481a71e4dc8c543\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.0.4.aar\f2d997d3f5eb2daf46a6843d4d2e5e0b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-11.0.4.aar\f2d997d3f5eb2daf46a6843d4d2e5e0b\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.0.4.aar\36e2a94760313270976855ace867e281\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-identity-11.0.4.aar\36e2a94760313270976855ace867e281\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\17f1b520e85a792e0175f7c769b6aad3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\17f1b520e85a792e0175f7c769b6aad3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-11.0.4.aar\9bd0d96cbaab4013dfb04e615f2ffa6e\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-11.0.4.aar\9bd0d96cbaab4013dfb04e615f2ffa6e\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\caf3c7f6003d4e5ea621e2fbdf055678\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\caf3c7f6003d4e5ea621e2fbdf055678\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.0.4.aar\8b98432a3ed361f0900d127c66931793\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-panorama-11.0.4.aar\8b98432a3ed361f0900d127c66931793\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.0.4.aar\e142c4f702d22f1f25e26b8a71a2751e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-plus-11.0.4.aar\e142c4f702d22f1f25e26b8a71a2751e\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\84c6bf4ed054e04e63a6513e21af59aa\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-11.0.4.aar\84c6bf4ed054e04e63a6513e21af59aa\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.4.aar\ad968b89c90611aa715b387ebe3e8a0a\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-vision-11.0.4.aar\ad968b89c90611aa715b387ebe3e8a0a\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.4.aar\9e97fba24c94cebc6eedb607192be789\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-11.0.4.aar\9e97fba24c94cebc6eedb607192be789\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.0.4.aar\8ce9d3b1900f75cd6f363e783ce08d33\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-wearable-11.0.4.aar\8ce9d3b1900f75cd6f363e783ce08d33\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\edff0a84db5e6fdf076966c85f2e2c63\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\edff0a84db5e6fdf076966c85f2e2c63\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.0.4.aar\17bb0b51c19baac715ed0387b2eaccda\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.0.4.aar\17bb0b51c19baac715ed0387b2eaccda\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\45712487f772d6434bbb47a4952bcdc5\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.0.4.aar\45712487f772d6434bbb47a4952bcdc5\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\c20c77bf1ee889937c79343d2a2c79ae\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\c20c77bf1ee889937c79343d2a2c79ae\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\b0a3089476dcd31b43cd397e049947f4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\b0a3089476dcd31b43cd397e049947f4\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\073b18a4992f7f86cef081887a97df6c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\073b18a4992f7f86cef081887a97df6c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\40df8a7e9c8881ef02e6457d9290b2bb\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\40df8a7e9c8881ef02e6457d9290b2bb\AndroidManifest.xml:22:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.0.4.aar\c6b8f94b06c34d0c63bd3a8701e308c9\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.0.4.aar\c6b8f94b06c34d0c63bd3a8701e308c9\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\c52c5bed38ee5feb21aab6793d20e12c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.0.4.aar\c52c5bed38ee5feb21aab6793d20e12c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\3a89d02aa40bd7e478c1d97e4bfec0d7\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\3a89d02aa40bd7e478c1d97e4bfec0d7\AndroidManifest.xml:17:5-43
+MERGED from [me.dm7.barcodescanner:core:1.8.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\core-1.8.4.aar\d020070f967b24d27cbac19c0b709a5c\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.8.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\core-1.8.4.aar\d020070f967b24d27cbac19c0b709a5c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ba1b8a56f0a89b691e0d99cbfefd90cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\ba1b8a56f0a89b691e0d99cbfefd90cc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\1c50990e2f1e1314d1ba6f683d41f607\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\1c50990e2f1e1314d1ba6f683d41f607\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\24a32128258f219275bdcaa5ad84fef6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\24a32128258f219275bdcaa5ad84fef6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e370825e40ceeede9a491bc6fd8a2d73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\e370825e40ceeede9a491bc6fd8a2d73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1df6f1810ba36dc23055916891a248c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1df6f1810ba36dc23055916891a248c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a60fe6451d264d5a94d3374f6fc8063c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a60fe6451d264d5a94d3374f6fc8063c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7714ab1cdb1acddd1e752349abdc7010\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\7714ab1cdb1acddd1e752349abdc7010\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\5590e463f6bb5ea1d7bdfffea2ed62c5\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\palette-v7-25.2.0.aar\5590e463f6bb5ea1d7bdfffea2ed62c5\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b2406ff47b70dc35b5a67803d6e1e4c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\b2406ff47b70dc35b5a67803d6e1e4c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\13353fa991eb35656d27963b8e0db28e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\13353fa991eb35656d27963b8e0db28e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3734443afa168a0eb1f8cbaab414c718\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3734443afa168a0eb1f8cbaab414c718\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f82bf69e93853395ae3df417ecafb238\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f82bf69e93853395ae3df417ecafb238\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a4710be1a249ff7312cc52cac05401f3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a4710be1a249ff7312cc52cac05401f3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e545ae3bb04602514d2ca0c1842257e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\e545ae3bb04602514d2ca0c1842257e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\71d63c22d09c1a17ca63674162105391\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\71d63c22d09c1a17ca63674162105391\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c58bd5589dfafdb612428cf403562a8a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c58bd5589dfafdb612428cf403562a8a\AndroidManifest.xml:20:5-44
+INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml
+INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml
+		ADDED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\f027eeb908c35bea214018bafba58036\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\f027eeb908c35bea214018bafba58036\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\f027eeb908c35bea214018bafba58036\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\f027eeb908c35bea214018bafba58036\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\f027eeb908c35bea214018bafba58036\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-11.0.4.aar\f027eeb908c35bea214018bafba58036\AndroidManifest.xml:7:18-90
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\ed7db94de1fc94e97089d68fca173d9d\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\bbbacba800052a751967ab31e82fe861\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\bbbacba800052a751967ab31e82fe861\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\d42009057e176e0582f05f8d87a4d015\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\d42009057e176e0582f05f8d87a4d015\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\caf3c7f6003d4e5ea621e2fbdf055678\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-nearby-11.0.4.aar\caf3c7f6003d4e5ea621e2fbdf055678\AndroidManifest.xml:4:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\c20c77bf1ee889937c79343d2a2c79ae\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\c20c77bf1ee889937c79343d2a2c79ae\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\40df8a7e9c8881ef02e6457d9290b2bb\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\40df8a7e9c8881ef02e6457d9290b2bb\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\ed7db94de1fc94e97089d68fca173d9d\AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\ed7db94de1fc94e97089d68fca173d9d\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\ed7db94de1fc94e97089d68fca173d9d\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\ed7db94de1fc94e97089d68fca173d9d\AndroidManifest.xml:21:52-75
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\5f9d911fb23698b61e101798260dbc4b\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\3a89d02aa40bd7e478c1d97e4bfec0d7\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\3a89d02aa40bd7e478c1d97e4bfec0d7\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\5f9d911fb23698b61e101798260dbc4b\AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\5f9d911fb23698b61e101798260dbc4b\AndroidManifest.xml:9:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\8292d762e8088c1bee062d2c9388d05f\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\8292d762e8088c1bee062d2c9388d05f\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\8292d762e8088c1bee062d2c9388d05f\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\8292d762e8088c1bee062d2c9388d05f\AndroidManifest.xml:9:13-64
+uses-permission#android.permission.CAMERA
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:33:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\zxing-android-embedded-3.2.0.aar\babc4b9d2e0c01bb41fb79627473f182\AndroidManifest.xml:47:13-74
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\d7e34547170156fd831952d28769ceb8\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\d7e34547170156fd831952d28769ceb8\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-messaging-11.0.4.aar\d7e34547170156fd831952d28769ceb8\AndroidManifest.xml:23:18-87
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:25:118-142
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:25:94-117
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:28:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:29:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:29:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-11.0.4.aar\95585be5433ce680554771d276b3da58\AndroidManifest.xml:30:27-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\bbbacba800052a751967ab31e82fe861\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-11.0.4.aar\bbbacba800052a751967ab31e82fe861\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\d42009057e176e0582f05f8d87a4d015\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-11.0.4.aar\d42009057e176e0582f05f8d87a4d015\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\c20c77bf1ee889937c79343d2a2c79ae\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\c20c77bf1ee889937c79343d2a2c79ae\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\c20c77bf1ee889937c79343d2a2c79ae\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\c20c77bf1ee889937c79343d2a2c79ae\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\c20c77bf1ee889937c79343d2a2c79ae\AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.0.4.aar\c20c77bf1ee889937c79343d2a2c79ae\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.0.4.aar\cbe5019a5cd8e9df1bcb5ce938f33ab8\AndroidManifest.xml:33:16-90
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\8b76ccfbd9e4f06e23ae001838cb4e1b\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\8b76ccfbd9e4f06e23ae001838cb4e1b\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\8b76ccfbd9e4f06e23ae001838cb4e1b\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\8b76ccfbd9e4f06e23ae001838cb4e1b\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\8b76ccfbd9e4f06e23ae001838cb4e1b\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\8b76ccfbd9e4f06e23ae001838cb4e1b\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-11.0.4.aar\8b76ccfbd9e4f06e23ae001838cb4e1b\AndroidManifest.xml:22:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\0253e7a4255525d9a1d23566f90f7268\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\0253e7a4255525d9a1d23566f90f7268\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\0253e7a4255525d9a1d23566f90f7268\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\0253e7a4255525d9a1d23566f90f7268\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\0253e7a4255525d9a1d23566f90f7268\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\0253e7a4255525d9a1d23566f90f7268\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\0253e7a4255525d9a1d23566f90f7268\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\0253e7a4255525d9a1d23566f90f7268\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.4.aar\0253e7a4255525d9a1d23566f90f7268\AndroidManifest.xml:24:18-63
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\1781186b3d5c3dfbf481a71e4dc8c543\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\17f1b520e85a792e0175f7c769b6aad3\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-iid-11.0.4.aar\17f1b520e85a792e0175f7c769b6aad3\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:22:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-gcm-11.0.4.aar\1781186b3d5c3dfbf481a71e4dc8c543\AndroidManifest.xml:20:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\edff0a84db5e6fdf076966c85f2e2c63\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\edff0a84db5e6fdf076966c85f2e2c63\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\edff0a84db5e6fdf076966c85f2e2c63\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\edff0a84db5e6fdf076966c85f2e2c63\AndroidManifest.xml:19:19-85
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:24:17-71
+permission#com.example.julio.apptaller_taller.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:26:22-76
+uses-permission#com.example.julio.apptaller_taller.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:31:13-34:29
+intent-filter#com.example.julio.apptaller_taller+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:33:27-58
+category#com.example.julio.apptaller_taller
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.0.4.aar\0cca0c53cf88d2a2f074c2ce3bb54ed1\AndroidManifest.xml:43:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\b0a3089476dcd31b43cd397e049947f4\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\b0a3089476dcd31b43cd397e049947f4\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\b0a3089476dcd31b43cd397e049947f4\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\b0a3089476dcd31b43cd397e049947f4\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\firebase-common-11.0.4.aar\b0a3089476dcd31b43cd397e049947f4\AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\40df8a7e9c8881ef02e6457d9290b2bb\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\40df8a7e9c8881ef02e6457d9290b2bb\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\40df8a7e9c8881ef02e6457d9290b2bb\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Julio\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.0.4.aar\40df8a7e9c8881ef02e6457d9290b2bb\AndroidManifest.xml:25:19-71

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\assets"><file name="fonts/Arkhip_font.ttf" path="E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\main\assets\fonts\Arkhip_font.ttf"/></source><source path="E:\Examen de Grado\Practicas\AppTaller-Taller\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\Examen de Grado\Practicas\AppTaller-Taller\app\src\debug\assets"/></dataSet></merger>

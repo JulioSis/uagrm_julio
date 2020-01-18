@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Oct 24 09:52:25 BOT 2019
+0.baseType=DIRECTORY
+0.base=E\:\\Examen de Grado\\Practicas\\AppTaller-Taller\\app\\build\\intermediates\\assets\\debug
+0.path=fonts/Arkhip_font.ttf
+0.set=ASSET
+count=1

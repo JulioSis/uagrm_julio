@@ -1,0 +1,10 @@
+#Wed Jan 08 18:43:12 BOT 2020
+path.2=classes2.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=E\:\\Examen de Grado\\Practicas\\AppTaller-Taller\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+base.1=E\:\\Examen de Grado\\Practicas\\AppTaller-Taller\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\70
+base.0=E\:\\Examen de Grado\\Practicas\\AppTaller-Taller\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1

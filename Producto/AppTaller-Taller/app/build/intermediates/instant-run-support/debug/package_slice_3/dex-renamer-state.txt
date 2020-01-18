@@ -1,0 +1,4 @@
+#Thu Nov 14 15:54:33 BOT 2019
+base.0=E\:\\Examen de Grado\\Practicas\\AppTaller-Taller\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\57
+path.0=classes.dex
+renamed.0=classes.dex
