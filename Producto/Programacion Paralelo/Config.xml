@@ -1,0 +1,54 @@
+<config>
+    <input>
+        <jar in="C:\Users\YOURNAME\Desktop\YOURJARFILE.jar" out="C:\Users\YOURNAME\Desktop\YOURJARFILE.jar"/>
+    </input>
+	
+	   <classpath>
+        <jar name="YOUR-1-DEPENDENCY.jar"/>
+        <jar name="YOUR-2-DEPENDENCY.jar"/>
+        <jar name="YOUR-3-DEPENDENCY.jar"/>
+   </classpath>
+
+	<ignore-classes>
+        <class template="class THE.PACKAGES.TO.YOUR.MAIN"/>
+    </ignore-classes>
+
+	<keep-names>
+        <class template="class THE.PACKAGES.TO.YOUR.MAIN"/>
+        <class template="class * instanceof THE.PACKAGES.TO.YOUR.MAIN"/>
+        <class access="protected+">
+            <field access="protected+"/>
+            <method access="protected+"/>
+        </class>
+    </keep-names>
+
+    <watermark key="secure-key-to-extract-watermark" value="qQQbaDyML6tH9SvnZxkLJnVnJyPpnHJrhC"/>
+
+    <property name="random-seed" value="EXdk6nTqCuuDZweY"/>
+
+    <!-- String encryption -->
+    <property name="string-encryption" value="maximum"/>
+    <property name="string-encryption-type" value="fast"/>
+    <property name="string-encryption-version" value="v4"/>
+
+    <!-- Control flow obfuscation -->
+    <property name="control-flow-obfuscation" value="enable"/>
+    <property name="extensive-flow-obfuscation" value="normal"/>
+
+    <!-- Renaming -->
+    <property name="default-package" value="THE.PACKAGES.OF.YOUR.FILE"/>
+    <property name="force-default-package" value="enable"/>
+
+    <property name="packages-naming" value="abc"/>
+    <property name="classes-naming" value="compact"/>
+    <property name="methods-naming" value="compact"/>
+    <property name="fields-naming" value="compact"/>
+    <property name="local-variables-naming" value="optimize"/>
+
+    <property name="update-resource-names" value="enable"/>
+    <property name="update-resource-contents" value="enable"/>
+
+    <property name="log-file" value="log.xml"/>
+	
+    <watermark key="secure-key-to-extract-watermark" value="bhNnfA2eMZsvrpjme8pZUaKWREZh7K7WfrDz"/>
+</config>
